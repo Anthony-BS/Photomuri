@@ -1,0 +1,15 @@
+Photomuri offline city search data
+
+Derived from GeoNames cities15000 and countryInfo, retrieved 2026-10-12.
+https://www.geonames.org/
+https://download.geonames.org/export/dump/
+
+GeoNames data is licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+Photomuri selects capitals and representative cities, extracts English/Korean
+aliases, and adds a small set of island/region names and Korean aliases.
+The bundled subset is modified from the source. It is used offline; no GeoNames
+API account or network connection is needed when searching in Photomuri.
+IANA time-zone rules and historical daylight saving offsets come from macOS.
+GeoNames supplies the original data as-is without warranty of completeness.

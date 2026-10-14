@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDocumentTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleTypeName</key><string>Photomuri Work Folder</string>
+            <key>CFBundleTypeRole</key><string>Editor</string>
+            <key>LSHandlerRank</key><string>Alternate</string>
+            <key>LSItemContentTypes</key><array><string>public.folder</string></array>
+        </dict>
+    </array>
+    <key>NSServices</key>
+    <array>
+        <dict>
+            <key>NSMenuItem</key>
+            <dict><key>default</key><string>Organize with Photomuri</string></dict>
+            <key>NSMessage</key><string>organizeFolder</string>
+            <key>NSPortName</key><string>Photomuri</string>
+            <key>NSSendFileTypes</key>
+            <array><string>public.folder</string></array>
+            <key>NSRequiredContext</key>
+            <dict><key>NSApplicationIdentifier</key><string>com.apple.finder</string></dict>
+            <key>NSServiceDescription</key>
+            <string>Sets the selected folder as Photomuri's Location. Click Start in Photomuri to process the files.</string>
+        </dict>
+    </array>
+</dict>
+</plist>
