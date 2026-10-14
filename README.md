@@ -6,6 +6,10 @@ Photomuri is a free, native macOS app by **BYAstra** for organizing photos and v
 
 The app is free to use. If it makes your day easier, voluntary donations help support its development. There is no payment required to use Photomuri.
 
+![Photomuri main window with the Default preset and a sample temporary folder](docs/images/photomuri-screenshot.jpg)
+
+*Actual app window with the Default preset. The Location shown is an example temporary folder, not a personal path.*
+
 ## Requirements
 
 - Apple Silicon Mac, M1 or later. Intel Macs are not supported.
