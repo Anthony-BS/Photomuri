@@ -21,4 +21,15 @@ Historical time-zone and daylight saving rules are provided by macOS, not a bund
 
 ## Photomuri
 
-Copyright © 2026 BYAstra. No project-wide source-code license has been selected yet. The notices above apply to their respective third-party components, not to the entire project.
+Copyright © 2026 Bosung Kim (BYAstra).
+
+Photomuri's own source code is available for inspection and personal
+modification under [LICENSE](LICENSE), not an open-source license.
+Personal local copies, modifications, builds, and use are permitted.
+Reuse in another project or product and redistribution of the source,
+modified versions, or applications require separate written permission,
+whether free of charge or for payment.
+
+The notices above apply to their respective third-party components.
+Photomuri's terms do not replace or restrict rights granted by those
+components' licenses.

@@ -1,0 +1,68 @@
+Photomuri — Source Viewing and Personal Use License
+
+Copyright © 2026 Bosung Kim (BYAstra).
+All rights reserved except as expressly granted below.
+
+1. Scope
+This license applies only to Photomuri source code, documentation,
+and original materials owned by Bosung Kim (BYAstra). Third-party
+software and data are excluded and retain their respective licenses.
+See THIRD_PARTY_NOTICES.md. This is not an open-source license.
+
+2. Source viewing and personal modification
+You may view and review the source, make local copies, and modify,
+compile, and run Photomuri for your own personal use, evaluation,
+and experimentation. You may keep backups of these personal copies.
+Keep the original copyright and license notices in your copies.
+
+This permission does not authorize reuse of Photomuri code or original
+materials in another project or product, or provision of a
+source-derived application or service to others. Such uses require
+separate written permission from the copyright holder.
+
+3. Redistribution
+Separate written permission is required to distribute Photomuri's
+own source code or original materials, modified versions, or
+source-derived applications, whether free of charge or for payment.
+
+Nothing in this license restricts rights granted by applicable law
+or GitHub's terms for public repositories, including viewing and
+forking. Those rights do not grant additional permission to reuse
+the code in other projects or distribute applications.
+
+4. Official application releases
+Official Photomuri application releases distributed by BYAstra may
+be installed and used without charge for personal or business purposes.
+Copies reasonably necessary for installation and backup are permitted.
+
+Redistribution, resale, or sublicensing of official application
+releases requires separate written permission. Donations are optional,
+are not required for use, and do not purchase additional rights.
+
+5. Names and artwork
+No permission is granted to use BYAstra or Photomuri names, logos,
+icons, or brand artwork to imply official origin, sponsorship,
+or endorsement.
+
+Accurate references identifying the project, preservation of required
+notices, and ordinary display of branding within official releases
+or permitted personal builds are allowed. Standalone reuse of logos,
+icons, or brand artwork requires separate written permission.
+
+6. Third-party rights
+These terms do not replace or restrict permissions granted by the
+licenses of ExifTool, GeoNames data, or other third-party materials.
+Any use or distribution of those materials must comply with their
+respective licenses.
+
+7. Warranty and liability
+The materials and application are supplied without warranties regarding
+functionality, fitness for a particular purpose, non-infringement,
+or preservation of files or data. To the extent permitted by applicable
+law, the copyright holder disclaims liability for losses arising from
+their use. Mandatory legal rights remain unaffected.
+
+8. Permission requests
+Requests for additional permission may be submitted through the
+contact information on the BYAstra website:
+https://byastra.netlify.app

@@ -81,6 +81,9 @@ Worker counts limit concurrent files; they do not reserve or pin CPU cores. Incr
 
 ## Build from source
 
+Personal modification and local builds are permitted under [LICENSE](LICENSE).
+Sharing or distributing your build requires separate written permission.
+
 Open **Media Organizer.xcodeproj**, select the shared **Photomuri** scheme and run on your Mac. The folder retains its historical project filename; the app is Photomuri.
 
 For an unsigned local development build:
@@ -107,10 +110,42 @@ This is a development build, not a signed/notarized distribution package. Bundle
 
 ## Credits and licensing
 
-Thank you to Phil Harvey and the ExifTool and Perl contributors for making their work available under free-software licenses, and to GeoNames for its city data.
+Photomuri's official application releases are free to install and use
+for personal or business purposes. Donations through Buy Me a Coffee
+are voluntary and do not purchase additional rights.
 
-ExifTool **13.59** is bundled with its original copyright notices and README. Its license is the same as Perl's. GeoNames-derived data is attributed under CC BY 4.0. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+**Photomuri's own source code is available for inspection and personal
+modification, but is not offered under an open-source license.**
+You may make local copies and modify, build, and run Photomuri for your
+own personal use, evaluation, and experimentation while retaining its
+copyright and license notices.
 
-**A license for Photomuri's own source code has not yet been selected.** Free app distribution and optional donations do not specify a source-code license. Third-party components keep their respective licenses.
+Reuse of Photomuri code in another project or product, provision of a
+source-derived application or service to others, and redistribution of
+the source, modified versions, or applications require separate written
+permission, whether free of charge or for payment.
+Rights provided by applicable law and GitHub's terms for public
+repositories, including viewing and forking, remain unaffected.
+See [LICENSE](LICENSE) for the complete terms.
 
-Copyright © 2026 BYAstra.
+Thank you to Phil Harvey and the ExifTool and Perl contributors for
+making their work available under free-software licenses, and to
+GeoNames for its city data.
+
+ExifTool **13.59** is bundled with its original copyright notices and
+README. Its license is the same as Perl's: either the Perl Artistic
+License or GPL. GeoNames-derived data remains licensed under CC BY 4.0.
+These components retain their respective licenses; Photomuri's terms
+do not restrict rights granted by those licenses.
+See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+BYAstra and Photomuri names, logos, icons, and brand artwork may not be
+used to imply official origin, sponsorship, or endorsement.
+Accurate references identifying the project and ordinary display of
+branding within official releases or permitted personal builds are
+allowed. Standalone reuse of brand artwork requires written permission.
+
+For additional permissions, use the contact information on the
+[BYAstra website](https://byastra.netlify.app).
+
+Copyright © 2026 Bosung Kim (BYAstra).
